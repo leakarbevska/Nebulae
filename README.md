@@ -1,6 +1,6 @@
 # Nebulae
  
-#### Objective: Create pure *php* Website containing login functionalities
+#### Objective: Create pure **php** Website containing login functionalities
 
 ### Main functionalities:
 * Creation, connection, disconnection and deletion of a User or an Admin Account
